@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Veerababu Kengam</h1>
 <h3 align="center">A Data analytics enthusiast...</h3>
 
-- 🔭 I’m currently working on **Udemy data analytics real world projects**
+- 🔭 I’m currently working as a **Data Analyst Intern @Cloudcounselage Pvt Ltd**
 
 - 🌱 I’m currently learning **Data science**
 
