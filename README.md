@@ -2,7 +2,7 @@
 
 👋 Hey there! I'm Veerababu Kengam, a passionate data analyst with a keen eye for turning raw data into meaningful stories. My journey in the world of data revolves around extracting valuable insights, creating interactive visualizations, and making data-driven decisions.
 
-💼 Currently, I am working as a Data Analyst Intern at Cloudcounselage PVT LTD.
+💼 Actively looking for an opportunity. 
 
 🔍 With a strong foundation in statistics, data wrangling, and machine learning, I dive deep into datasets to uncover hidden patterns and trends. Whether it's cleaning messy data or performing advanced analyses, I love the challenge of working with data to uncover its full potential.
 
